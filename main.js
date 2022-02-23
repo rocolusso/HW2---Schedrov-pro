@@ -15,6 +15,7 @@ function vychitanie() {
     console.log( 'Разница чисел : ' + raznitsa);
 }
 
+
 vychitanie();
 
 function umnozhenie() {
