@@ -10,6 +10,13 @@ function slozhenie() {
 
 slozhenie();
 
+function vychitanie() {
+    let raznitsa = firstNumber - secondNumber;
+    console.log( 'Разница чисел : ' + raznitsa);
+}
+
+vychitanie();
+
 function umnozhenie() {
     let umnozh = firstNumber * secondNumber;
     console.log( 'Произведение чисел : ' + umnozh);
